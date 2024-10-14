@@ -2,6 +2,7 @@
   "name": "tv-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://edgarpetrosyan0.github.io/move-app",
   "type": "module",
   "scripts": {
     "dev": "vite",
