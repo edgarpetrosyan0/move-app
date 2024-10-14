@@ -27,32 +27,32 @@ export default function MainMenu() {
       </div>
         <div className="flex flex-col gap-4 mt-4">
           <MenuItem
-            icon={"src/assets/images/icons/Search.png"}
+            icon={"/assets/images/icons/Search.png"}
             label="Search"
             isOpen={isOpen}
           />
           <MenuItem
-            icon={"src/assets/images/icons/Home.png"}
+            icon={"/assets/images/icons/Home.png"}
             label="Home"
             isOpen={isOpen}
           />
           <MenuItem
-            icon={"src/assets/images/icons/Film.png"}
+            icon={"/assets/images/icons/Film.png"}
             label="TV Shows"
             isOpen={isOpen}
           />
           <MenuItem
-            icon={"src/assets/images/icons/List.png"}
+            icon={"/assets/images/icons/List.png"}
             label="Movies"
             isOpen={isOpen}
           />
           <MenuItem
-            icon={"src/assets/images/icons/Mask.png"}
+            icon={"/assets/images/icons/Mask.png"}
             label="Genres"
             isOpen={isOpen}
           />
           <MenuItem
-            icon={"src/assets/images/icons/Sync.png"}
+            icon={"/assets/images/icons/Sync.png"}
             label="Watch Later"
             isOpen={isOpen}
           />
